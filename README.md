@@ -5,7 +5,7 @@ Wil this actually work?
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 1. Inro to JS
-
+The Intro to JS portion on Khan Academy had a significant impact on me as a student. It had an impact on me because it helped me understand how to code animation and drawings in JavaScript. Before completing Intro to JS, I had a basic understanding of animating in JavaScript, but after completion I had a greater understanding of animation in JS. Projects like shooting star and animal attack helped me the most and were the best examples of animation and drawing in JS.
 ### 2.Intro to HTML/
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
