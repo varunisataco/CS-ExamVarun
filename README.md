@@ -9,8 +9,14 @@ The Intro to JS portion on Khan Academy had a significant impact on me as a stud
 ### 2.Intro to HTML/CSS
 The Intro to HTML/CSS module was also intresting and helpful. The module helped the user learn how to use different texts, fonts, colors, headers, etc... The best part of the module would be the styling changes portion. This helps show the user create their own unique websites by using all of the features. Users can put headers into their websites, change the font of the text and even change the color of the text.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 3. Advanced JS: Natural Simulations
+Advanced JS: Natural Simulations is a more advanced module than the Intro to JS module. The Advanced JS module has new features such as floors and random functions which can be used for locations and movements, these are crucial components to coding. This module also introduces a new feature of non user players, this allows you to play against the computer instead of real people. This is very useful for creating games. In many computer games there are non users that you play against, this module not only allows you to use these non user players, it also allows you to randomly move that player. You can place characters anywhere on the canvas by using the random function.
 
+### 4. Algorithms
+The Algorithms module teaches you about different patterns and how to use or code them to change and sort data. I belive that this module is important because algorithms are something that we should know about. Algorithms are used in our daily life, not just in coding and computer science. There are many things that you can use knowledge of algorithms for. For example many people use algorithms to solve rubix cubes. The cubers who are able to solve the cubes in the fastest time have very good knowledge of algorithms. There are many other things that require knowledge of algorithms, as we see patterns every day, and the knowledge of algorithms can help us solve many challenges that we face.
+
+### 5. HTML/JS Making Websites Interactive
+The fifth module on my list is the HTML/JS Making Websites Interactive. This module helps you to understand different and more complex ways to strength your website. In this module you learn how you can make your websites interactive and how to add animation to your website. This is a very good module your those who are into animation, I personnaly someone who likes to code animation. This module was fun to use because it showed me how to make a website more fun by making interactive and creating animations.
 ```markdown
 Syntax highlighted code block
 
