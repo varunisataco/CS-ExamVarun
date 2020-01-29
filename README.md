@@ -20,10 +20,10 @@ The Algorithms module teaches you about different patterns and how to use or cod
 ### 5. HTML/JS Making Websites Interactive
 The fifth module on my list is the HTML/JS Making Websites Interactive. This module helps you to understand different and more complex ways to strength your website. In this module you learn how you can make your websites interactive and how to add animation to your website. This is a very good module your those who are into animation, I personnaly someone who likes to code animation. This module was fun to use because it showed me how to make a website more fun by making interactive and creating animations.
 
- <img src="https://user-images.githubusercontent.com/54958200/73407651-ca689c80-42c7-11ea-932d-63c1211d4253.png" height="150">
- 
  ### 6. Snake Recractoring
  Our summative project was refractoring the snake game. I found this project very fun because it allowed me to use my imagination to create a new type of snake game. I spent time watching Dan Shiftman and researching to understand what to do, and then I had the freedom of creating my own game. When refractoring I learned about CreateVectors, before this I never used or understood them. 
+ 
+ <img src="https://user-images.githubusercontent.com/54958200/73407651-ca689c80-42c7-11ea-932d-63c1211d4253.png" height="300">
 ```markdown
 Syntax highlighted code block
 
