@@ -22,8 +22,10 @@ The fifth module on my list is the HTML/JS Making Websites Interactive. This mod
 
 ### 6. Snake Recractoring
 Our summative project was refractoring the snake game. I found this project very fun because it allowed me to use my imagination to create a new type of snake game. I spent time watching Dan Shiftman and researching to understand what to do, and then I had the freedom of creating my own game. When refractoring I learned about CreateVectors, before this I never used or understood them. 
- [Snake Refractoring]("https://editor.p5js.org/vshar3/sketches/ZOss-gcAI")
+
  <img src="https://user-images.githubusercontent.com/54958200/73407651-ca689c80-42c7-11ea-932d-63c1211d4253.png" height="300">
+ 
+ [Snake Refractoring]("https://editor.p5js.org/vshar3/sketches/ZOss-gcAI")
 ```markdown
 Syntax highlighted code block
 
