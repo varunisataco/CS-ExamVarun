@@ -21,6 +21,8 @@ Advanced JS: Natural Simulations is a more advanced module than the Intro to JS 
 ### 4. Algorithms
 The Algorithms module teaches you about different patterns and how to use or code them to change and sort data. I belive that this module is important because algorithms are something that we should know about. Algorithms are used in our daily life, not just in coding and computer science. There are many things that you can use knowledge of algorithms for. For example many people use algorithms to solve rubix cubes. The cubers who are able to solve the cubes in the fastest time have very good knowledge of algorithms. There are many other things that require knowledge of algorithms, as we see patterns every day, and the knowledge of algorithms can help us solve many challenges that we face.
 
+<img src= "https://cdn.theatlantic.com/assets/media/img/mt/2015/09/code/lead_720_405.jpg?mod=1533691769" height="300">
+
 ### 5. HTML/JS Making Websites Interactive
 The fifth module on my list is the HTML/JS Making Websites Interactive. This module helps you to understand different and more complex ways to strength your website. In this module you learn how you can make your websites interactive and how to add animation to your website. This is a very good module your those who are into animation, I personnaly someone who likes to code animation. This module was fun to use because it showed me how to make a website more fun by making interactive and creating animations.
 
