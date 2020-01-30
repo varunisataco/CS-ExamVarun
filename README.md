@@ -25,7 +25,7 @@ Our summative project was refractoring the snake game. I found this project very
 
  <img src="https://user-images.githubusercontent.com/54958200/73407651-ca689c80-42c7-11ea-932d-63c1211d4253.png" height="300">
  
- [Snake Refractoring]("https://editor.p5js.org/vshar3/sketches/ZOss-gcAI")
+ [Snake Refractoring](https://editor.p5js.org/vshar3/sketches/ZOss-gcAI)
 ```markdown
 Syntax highlighted code block
 
