@@ -26,6 +26,10 @@ Our summative project was refractoring the snake game. I found this project very
 <img src="https://user-images.githubusercontent.com/54958200/73407651-ca689c80-42c7-11ea-932d-63c1211d4253.png" height="300">
  
 [Snake Refractoring](https://editor.p5js.org/vshar3/sketches/ZOss-gcAI)
+
+### 7. Intro to SQL
+This module helped me learn how to use SQL to store, query, and manipulate data. SQL is a special-purpose programming language designed for managing data in a relational database, and is used by a huge number of apps and organizations. This module helped me learn how to store data in a useful and convinent way.This module is important because SQL and SQL Queary libraries are used very often.
+
 ```markdown
 Syntax highlighted code block
 
