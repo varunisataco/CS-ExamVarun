@@ -31,7 +31,7 @@ This module helped me learn how to use SQL to store, query, and manipulate data.
 In the Advanced JS: Games and Visualizations module, you learn how to change between multiple scenes in your program, even if they are animated or interactive. You also learn how to create clickable buttons for your programs, these buttons can also easily be customized. This module teaches you to use translate(), rotate(), and scale() so you can control the shapes in your program more easily. I think this module was the most fun to learn from. I play a lot of video games so I find it fun to code games that I can actually play. The project Hoppy Beaver was fun to code even though it took a very long time.
 [Hoppy Beaver Extreme](https://www.khanacademy.org/computer-programming/spin-off-of-project-hoppy-beaver-extreme/5602148378705920)
 
-
+<img src ="https://user-images.githubusercontent.com/54958200/73418716-9357b280-42ea-11ea-9310-f7ec222aa798.png" height="300">
 
 <img src ="https://d33wubrfki0l68.cloudfront.net/0e8fb97f2590158c63395ed372e4f861329b511e/7ed9d/assets/img/freecodecamp.jpg" height="150">
 ### 8. JavaScript Algorithms and Data Structures Projects
