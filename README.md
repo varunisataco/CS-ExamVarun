@@ -30,6 +30,7 @@ Our summative project was refractoring the snake game. I found this project very
 ### 7. Intro to SQL
 This module helped me learn how to use SQL to store, query, and manipulate data. SQL is a special-purpose programming language designed for managing data in a relational database, and is used by a huge number of apps and organizations. This module helped me learn how to store data in a useful and convinent way.This module is important because SQL and SQL Queary libraries are used very often.
 
+<img src ="https://user-images.githubusercontent.com/54958200/73414220-20473f80-42dc-11ea-950c-e86b1d787306.png" height="300">
 ```markdown
 Syntax highlighted code block
 
