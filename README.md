@@ -3,6 +3,7 @@
 This is my top ten list of modules from both Khan Academy and from FreeCodeCamp. The first 7 are from Khan Academy, then 2 from FreeCodeCamp and lastly my Snake Game Refractoring.
 
 <img src ="https://pbs.twimg.com/media/Di5JevtUUAAjRiz.jpg" height="300">
+
 ### 1. Inro to JS
 The Intro to JS portion on Khan Academy had a significant impact on me as a student. It had an impact on me because it helped me understand how to code animation and drawings in JavaScript. Before completing Intro to JS, I had a basic understanding of animating in JavaScript, but after completion I had a greater understanding of animation in JS. Projects like shooting star and animal attack helped me the most and were the best examples of animation and drawing in JS.
 [Animal Attack](https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5909507775889408)
