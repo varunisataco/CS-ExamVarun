@@ -2,7 +2,7 @@
 
 This is my top ten list of modules from both Khan Academy and from FreeCodeCamp. The first 7 are from Khan Academy, then 2 from FreeCodeCamp and lastly my Snake Game Refractoring.
 
-**Khan Academy 1-7**
+## **Khan Academy 1-7**
 
 <img src ="https://pbs.twimg.com/media/Di5JevtUUAAjRiz.jpg" height="250">
 
@@ -37,7 +37,7 @@ In the Advanced JS: Games and Visualizations module, you learn how to change bet
 
 <img src ="https://user-images.githubusercontent.com/54958200/73418716-9357b280-42ea-11ea-9310-f7ec222aa798.png" height="300">
 
-**FreeCodeCamp 8 and 9**
+## **FreeCodeCamp 8 and 9**
 
 <img src ="https://d33wubrfki0l68.cloudfront.net/0e8fb97f2590158c63395ed372e4f861329b511e/7ed9d/assets/img/freecodecamp.jpg" height="150">
 
@@ -49,7 +49,7 @@ The JavaScript Algorithms and Data Structures Projects module from FreeCodeCamp.
 ### 9. Basic Algorithm Scripting
 In the Basic Algorithm Scripting FreeCodeCamp module you will learn to solve basic algorithm problems using JavaScript. A computer algorithm is a sequence of steps that is followed to achieve a particular outcome. To write an algorithm, you must first understand a problem, and then solve it with coding. This module helps you improve your problem solving skills and helps you solve more complex problems later on. I think this module helped improve my understanding of algorithms in JavaScript, this is important because in JavaScript and coding in general, the knowledge of algorithms is key.
 
-**Summative Project**
+## **Summative Project**
 
 ### 10. Snake Recractoring
 Our summative project was refractoring the snake game. I found this project very fun because it allowed me to use my imagination to create a new type of snake game. I spent time watching Dan Shiftman and researching to understand what to do, and then I had the freedom of creating my own game. When refractoring I learned about CreateVectors, before this I never used or understood them. 
