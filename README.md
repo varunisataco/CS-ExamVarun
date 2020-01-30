@@ -30,6 +30,9 @@ This module helped me learn how to use SQL to store, query, and manipulate data.
 ### 7. Advanced JS: Games & Visualizations
 In the Advanced JS: Games and Visualizations module, you learn how to change between multiple scenes in your program, even if they are animated or interactive. You also learn how to create clickable buttons for your programs, these buttons can also easily be customized. This module teaches you to use translate(), rotate(), and scale() so you can control the shapes in your program more easily. I think this module was the most fun to learn from. I play a lot of video games so I find it fun to code games that I can actually play. The project Hoppy Beaver was fun to code even though it took a very long time.
 
+
+<img src ="https://d33wubrfki0l68.cloudfront.net/0e8fb97f2590158c63395ed372e4f861329b511e/7ed9d/assets/img/freecodecamp.jpg" height="250">
+
 ### 8. JavaScript Algorithms and Data Structures Projects
 The JavaScript Algorithms and Data Structures Projects module from FreeCodeCamp. In this module you work on 5 different projects Palindrome Checker, Roman Numeral Converter, Caesars Cipher, Telephone Number Validator, and Cash Register. These five projects were very helpful to me because they helped to expand my knowledge of algorithms. In Khan Academy, there is also a Algoritms module but in this FreeCodeCamp module you use algorithms as well as Data Structures.
 
