@@ -44,6 +44,8 @@ In the Advanced JS: Games and Visualizations module, you learn how to change bet
 ### 8. JavaScript Algorithms and Data Structures Projects
 The JavaScript Algorithms and Data Structures Projects module from FreeCodeCamp. In this module you work on 5 different projects Palindrome Checker, Roman Numeral Converter, Caesars Cipher, Telephone Number Validator, and Cash Register. These five projects were very helpful to me because they helped to expand my knowledge of algorithms. In Khan Academy, there is also a Algoritms module but in this FreeCodeCamp module you use algorithms as well as Data Structures.
 
+<img src="https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.png" height="300">
+
 ### 9. Basic Algorithm Scripting
 In the Basic Algorithm Scripting FreeCodeCamp module you will learn to solve basic algorithm problems using JavaScript. A computer algorithm is a sequence of steps that is followed to achieve a particular outcome. To write an algorithm, you must first understand a problem, and then solve it with coding. This module helps you improve your problem solving skills and helps you solve more complex problems later on. I think this module helped improve my understanding of algorithms in JavaScript, this is important because in JavaScript and coding in general, the knowledge of algorithms is key.
 
