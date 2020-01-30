@@ -2,7 +2,7 @@
 
 This is my top ten list of modules from both Khan Academy and from FreeCodeCamp. The first 7 are from Khan Academy, then 2 from FreeCodeCamp and lastly my Snake Game Refractoring.
 
-##**Khan Academy 1-7**
+**Khan Academy 1-7**
 
 <img src ="https://pbs.twimg.com/media/Di5JevtUUAAjRiz.jpg" height="250">
 
@@ -35,7 +35,7 @@ In the Advanced JS: Games and Visualizations module, you learn how to change bet
 
 <img src ="https://user-images.githubusercontent.com/54958200/73418716-9357b280-42ea-11ea-9310-f7ec222aa798.png" height="300">
 
-##**FreeCodeCamp 8 and 9**
+**FreeCodeCamp 8 and 9**
 
 <img src ="https://d33wubrfki0l68.cloudfront.net/0e8fb97f2590158c63395ed372e4f861329b511e/7ed9d/assets/img/freecodecamp.jpg" height="150">
 
