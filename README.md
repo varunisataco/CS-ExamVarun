@@ -33,7 +33,10 @@ In the Advanced JS: Games and Visualizations module, you learn how to change bet
 
 <img src ="https://user-images.githubusercontent.com/54958200/73418716-9357b280-42ea-11ea-9310-f7ec222aa798.png" height="300">
 
+
+
 <img src ="https://d33wubrfki0l68.cloudfront.net/0e8fb97f2590158c63395ed372e4f861329b511e/7ed9d/assets/img/freecodecamp.jpg" height="150">
+
 ### 8. JavaScript Algorithms and Data Structures Projects
 The JavaScript Algorithms and Data Structures Projects module from FreeCodeCamp. In this module you work on 5 different projects Palindrome Checker, Roman Numeral Converter, Caesars Cipher, Telephone Number Validator, and Cash Register. These five projects were very helpful to me because they helped to expand my knowledge of algorithms. In Khan Academy, there is also a Algoritms module but in this FreeCodeCamp module you use algorithms as well as Data Structures.
 
