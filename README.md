@@ -53,7 +53,7 @@ In the Basic Algorithm Scripting FreeCodeCamp module you will learn to solve bas
 
 ### **Summative Project**
 
-## 10. Snake Recractoring
+## 10. Snake Refractoring
 Our summative project was refractoring the snake game. I found this project very fun because it allowed me to use my imagination to create a new type of snake game. I spent time watching Dan Shiftman and researching to understand what to do, and then I had the freedom of creating my own game. When refractoring I learned about CreateVectors, before this I never used or understood them. 
 
 <img src="https://user-images.githubusercontent.com/54958200/73407651-ca689c80-42c7-11ea-932d-63c1211d4253.png" height="300">
