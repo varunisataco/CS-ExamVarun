@@ -14,8 +14,8 @@ The Intro to JS portion on Khan Academy had a significant impact on me as a stud
 
 <img src="https://user-images.githubusercontent.com/54958200/73408496-698e9380-42ca-11ea-94a2-42d25dad4903.png" height="300">
 
-## 2.Intro to HTML/CSS
-The Intro to HTML/CSS module was also intresting and helpful. The module helped the user learn how to use different texts, fonts, colors, headers, etc... The best part of the module would be the styling changes portion. This helps show the user create their own unique websites by using all of the features. Users can put headers into their websites, change the font of the text and even change the color of the text.
+## 2. Intro to HTML/CSS
+The Intro to HTML/CSS module was also intresting and helpful. The module helped the user learn how to use different texts, fonts, colors, headers, etc... The best part of the module would be the styling changes portion. This helps show the user how to create their own unique websites by using all of the features. Users can put headers into their websites, change the font of the text and even change the color of the text. This helped me learn some of the features that can be used for texts.
 
 ## 3. Advanced JS: Natural Simulations
 Advanced JS: Natural Simulations is a more advanced module than the Intro to JS module. The Advanced JS module has new features such as floors and random functions which can be used for locations and movements, these are crucial components to coding. This module also introduces a new feature of non user players, this allows you to play against the computer instead of real people. This is very useful for creating games. In many computer games there are non users that you play against, this module not only allows you to use these non user players, it also allows you to randomly move that player. You can place characters anywhere on the canvas by using the random function.
