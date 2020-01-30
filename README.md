@@ -11,7 +11,9 @@ The Intro to JS portion on Khan Academy had a significant impact on me as a stud
 [Animal Attack](https://www.khanacademy.org/computer-programming/spin-off-of-project-animal-attack/5909507775889408)
 
 [Shooting Star](https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5829477951569920)
+
 <img src="https://user-images.githubusercontent.com/54958200/73408496-698e9380-42ca-11ea-94a2-42d25dad4903.png" height="300">
+
 ## 2.Intro to HTML/CSS
 The Intro to HTML/CSS module was also intresting and helpful. The module helped the user learn how to use different texts, fonts, colors, headers, etc... The best part of the module would be the styling changes portion. This helps show the user create their own unique websites by using all of the features. Users can put headers into their websites, change the font of the text and even change the color of the text.
 
